@@ -1,4 +1,4 @@
-# libutp - The uTorrent Transport Protocol library.
+# libutp - The gokraken-net Transport Protocol library.
 Copyright (c) 2010 BitTorrent, Inc.
 
 uTP is a TCP-like implementation of [LEDBAT][ledbat] documented as a BitTorrent
